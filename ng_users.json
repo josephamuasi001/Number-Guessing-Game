@@ -1,0 +1,329 @@
+{
+    "Joseph": {
+        "password": "$2y$10$j7ms2BcnMPNKi5Ib94xjJO4Lbz.j3lXDMEjMN1AqRUPJ4BmxMADiK",
+        "level": 20,
+        "experience": 974,
+        "games_won": 4,
+        "games_played": 5,
+        "streak": 4,
+        "best_streak": 4,
+        "hints_used": 0,
+        "hint_xp": 1164,
+        "achievements": [
+            "first_win",
+            "efficiency",
+            "win_streak_3",
+            "speed_demon",
+            "level_10",
+            "daily_champion"
+        ],
+        "theme": "ocean",
+        "dark_mode": false,
+        "powerups": {
+            "range_narrow": 5,
+            "reveal_digit": 1
+        },
+        "game_history": [
+            {
+                "diff": "Medium",
+                "won": false,
+                "attempts": 8,
+                "time": 81,
+                "date": 1775087761
+            },
+            {
+                "diff": "Easy",
+                "won": true,
+                "attempts": 3,
+                "time": 19,
+                "date": 1775087951
+            },
+            {
+                "diff": "Easy",
+                "won": true,
+                "attempts": 4,
+                "time": 12,
+                "date": 1775087982
+            },
+            {
+                "diff": "Easy",
+                "won": true,
+                "attempts": 2,
+                "time": 5,
+                "date": 1775087995
+            },
+            {
+                "diff": "Medium",
+                "won": true,
+                "attempts": 7,
+                "time": 61,
+                "date": 1775088512
+            }
+        ],
+        "no_hint_games": 4,
+        "created_at": 1775087673,
+        "last_daily": "2026-04-02",
+        "daily_streak": 1,
+        "diff_stats": {
+            "Easy": {
+                "w": 3,
+                "p": 3
+            },
+            "Medium": {
+                "w": 1,
+                "p": 2
+            },
+            "Hard": {
+                "w": 0,
+                "p": 0
+            }
+        },
+        "login_count": 1,
+        "last_login": "2026-04-02",
+        "coins": 50
+    },
+    "Kwame": {
+        "password": "$2y$10$F.OOMA64ysiDfukAHIHZcuXqhitqKc59s.4Y3PRuykDgNNGSIirsq",
+        "level": 61,
+        "experience": 3038,
+        "games_won": 4,
+        "games_played": 4,
+        "streak": 4,
+        "best_streak": 4,
+        "hints_used": 0,
+        "hint_xp": 3238,
+        "achievements": [
+            "daily_champion",
+            "hard_win",
+            "level_10",
+            "win_streak_3",
+            "level_50"
+        ],
+        "theme": "volcano",
+        "dark_mode": false,
+        "powerups": {
+            "range_narrow": 5,
+            "reveal_digit": 3
+        },
+        "game_history": [
+            {
+                "diff": "Medium",
+                "won": true,
+                "attempts": 1,
+                "time": 6,
+                "date": 1775088548
+            },
+            {
+                "diff": "Hard",
+                "won": true,
+                "attempts": 6,
+                "time": 34,
+                "date": 1775088592
+            },
+            {
+                "diff": "Hard",
+                "won": true,
+                "attempts": 8,
+                "time": 37,
+                "date": 1775088728
+            },
+            {
+                "diff": "Hard",
+                "won": true,
+                "attempts": 8,
+                "time": 58,
+                "date": 1775088796
+            }
+        ],
+        "no_hint_games": 4,
+        "created_at": 1775088538,
+        "last_daily": "2026-04-02",
+        "daily_streak": 1,
+        "diff_stats": {
+            "Easy": {
+                "w": 0,
+                "p": 0
+            },
+            "Medium": {
+                "w": 1,
+                "p": 1
+            },
+            "Hard": {
+                "w": 3,
+                "p": 3
+            }
+        }
+    },
+    "Isaac": {
+        "password": "$2y$10$5cbS1G0MbQMgj9mZRtFbL.2dL98mnZHUTu4zpnPwGhCNXSeI2B3XG",
+        "level": 158,
+        "experience": 7897,
+        "games_won": 8,
+        "games_played": 9,
+        "streak": 0,
+        "best_streak": 8,
+        "hints_used": 2,
+        "hint_xp": 7737,
+        "achievements": [
+            "daily_champion",
+            "hard_win",
+            "level_10",
+            "win_streak_3",
+            "one_shot",
+            "speed_demon",
+            "efficiency",
+            "win_streak_5",
+            "level_50",
+            "power_player",
+            "first_game",
+            "first_win",
+            "first_medium",
+            "win_5",
+            "streak_3",
+            "streak_5",
+            "speed_10s",
+            "speed_5s",
+            "one_shot_medium",
+            "perfect_game",
+            "no_hint_win",
+            "no_powerup_win",
+            "level_5",
+            "level_25",
+            "level_75",
+            "xp_1000",
+            "morning_game",
+            "unlock_ocean",
+            "unlock_forest",
+            "unlock_volcano",
+            "unlock_galaxy",
+            "unlock_gold",
+            "all_themes",
+            "play_light_mode",
+            "hint_xp_1000",
+            "seasonal_spring",
+            "first_easy",
+            "level_100",
+            "shop_1",
+            "first_powerup",
+            "theme_changer"
+        ],
+        "theme": "forest",
+        "dark_mode": false,
+        "powerups": {
+            "range_narrow": 4,
+            "reveal_digit": 3,
+            "freeze_timer": 0,
+            "range_bomb": 0
+        },
+        "game_history": [
+            {
+                "diff": "Medium",
+                "won": true,
+                "attempts": 1,
+                "time": 2,
+                "date": 1775088975
+            },
+            {
+                "diff": "Hard",
+                "won": true,
+                "attempts": 6,
+                "time": 39,
+                "date": 1775089020
+            },
+            {
+                "diff": "Easy",
+                "won": true,
+                "attempts": 1,
+                "time": 1,
+                "date": 1775089655
+            },
+            {
+                "diff": "Medium",
+                "won": true,
+                "attempts": 7,
+                "time": 27,
+                "date": 1775089710
+            },
+            {
+                "diff": "Medium",
+                "won": true,
+                "attempts": 6,
+                "time": 28,
+                "date": 1775089750
+            },
+            {
+                "diff": "Hard",
+                "won": true,
+                "attempts": 4,
+                "time": 60,
+                "date": 1775090165,
+                "multi": false
+            },
+            {
+                "diff": "Medium",
+                "won": true,
+                "attempts": 1,
+                "time": 3,
+                "date": 1775091615,
+                "multi": false,
+                "daily": false
+            },
+            {
+                "diff": "Easy",
+                "won": true,
+                "attempts": 2,
+                "time": 5,
+                "date": 1775091665,
+                "multi": false,
+                "daily": false
+            },
+            {
+                "diff": "Medium",
+                "won": false,
+                "attempts": 7,
+                "time": 58,
+                "date": 1775092586,
+                "multi": false,
+                "daily": false
+            }
+        ],
+        "no_hint_games": 0,
+        "created_at": 1775088970,
+        "last_daily": "2026-04-02",
+        "daily_streak": 1,
+        "diff_stats": {
+            "Easy": {
+                "w": 2,
+                "p": 2
+            },
+            "Medium": {
+                "w": 4,
+                "p": 5
+            },
+            "Hard": {
+                "w": 2,
+                "p": 2
+            }
+        },
+        "coin_doubler_active": false,
+        "coins": 23,
+        "shop_purchases": 3,
+        "theme_changes": 3,
+        "last_session_date": "2026-04-02",
+        "session_wins_today": 2,
+        "consecutive_losses": 1,
+        "xp_surge_active": false,
+        "fast_wins_10s": 2,
+        "one_shot_count": 1,
+        "efficiency_count": 2,
+        "no_hint_wins": 2,
+        "no_powerup_wins": 2,
+        "coins_spent": 70,
+        "games_lost": 1,
+        "max_losing_streak": 1,
+        "powerups_used": 1,
+        "powerup_type_used": [
+            "range_bomb"
+        ]
+    }
+}
